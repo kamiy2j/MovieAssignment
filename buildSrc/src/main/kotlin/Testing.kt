@@ -12,13 +12,13 @@ object Testing {
     const val mockkAndroid = "io.mockk:mockk-android:$mockkVersion"
 
     private const val truthVersion = "1.1.4"
-    const val truth = "io.mockk:mockk:$truthVersion"
+    const val truth = "com.google.truth:truth:$truthVersion"
 
     private const val turbineVersion = "0.13.0"
-    const val turbine = "io.mockk:mockk:$turbineVersion"
+    const val turbine = "app.cash.turbine:turbine:$turbineVersion"
 
     private const val coroutinesTestVersion = "1.7.1"
-    const val coroutinesTest = "io.mockk:mockk:$coroutinesTestVersion"
+    const val coroutinesTest = "org.jetbrains.kotlinx:kotlinx-coroutines-test:$coroutinesTestVersion"
 
     private const val junitExtVersion = "1.1.5"
     const val junitExt = "androidx.test.ext:junit:$junitExtVersion"
