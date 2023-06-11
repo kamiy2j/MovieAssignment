@@ -5,8 +5,6 @@ C
 settings.gradle.kts,7/4/749edfcc96398253e5b3416184e95c46621da850
 r
 Bapp/src/main/java/com/kamran/movieassignment/MovieAssignmentApp.kt,a/9/a91f398c4b2d2df3e5db9985c5784e7d90ee6e8e
-P
- app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
 É
 Sapp/src/main/java/com/kamran/movieassignment/movie_data/remote/dto/MovieListItem.kt,9/0/90c4c520f257349a53657caa59624bc0d3ba41e3
 {
@@ -33,8 +31,6 @@ Aapp/src/main/java/com/kamran/movieassignment/core/AppConstants.kt,e/c/ec7ce883
 Zapp/src/test/java/com/kamran/movieassignment/movie_data/remote/ValidMovieDetailResponse.kt,1/6/16038bc58e547e5758df3bf5fde2f2ad3402a25d
 à
 Xapp/src/test/java/com/kamran/movieassignment/movie_data/remote/ValidMovieListResponse.kt,2/0/2094e826f19e224ce4b963eac0207203f8ec581c
-ã
-[app/src/main/java/com/kamran/movieassignment/movie_presentation/list/MovieItemComposable.kt,c/2/c2c7de0b75528d9224d32e6d74cd10afa2bcd129
 ê
 `app/src/main/java/com/kamran/movieassignment/movie_presentation/components/EmptyScreenMessage.kt,8/4/84f8e40926d1609094f3a37c69c5f3458c683757
 ä
@@ -61,10 +57,6 @@ Napp/src/main/java/com/kamran/movieassignment/movie_domain/model/MovieDetail.kt
 Qapp/src/main/java/com/kamran/movieassignment/movie_domain/di/MovieDomainModule.kt,d/2/d255f799d75ef43cfb91f3826929f7ede29c734c
 â
 Yapp/src/main/java/com/kamran/movieassignment/movie_data/repository/MovieRepositoryImpl.kt,3/e/3e994d6379bc04ff42e68db76eda1b5825c3c956
-å
-\app/src/main/java/com/kamran/movieassignment/movie_data/remote/mapper/MovieListItemMapper.kt,5/5/55f4a0e534e1b76778637b1895e4dc885749e012
-ä
-Zapp/src/main/java/com/kamran/movieassignment/movie_data/remote/mapper/MovieDetailMapper.kt,7/e/7eeb3b4962594720c3d453c1af97e3f288819e0e
 }
 Mapp/src/main/java/com/kamran/movieassignment/movie_data/di/MovieDataModule.kt,d/f/dff3410918cce0af4068d543b2a24c86f52f6509
 á
@@ -77,18 +69,12 @@ q
 Aapp/src/main/java/com/kamran/movieassignment/core/utils/UiText.kt,d/a/dacf3dfbd10ac8ad8380f99ff210e0cd1136cdfd
 u
 Eapp/src/main/java/com/kamran/movieassignment/core/utils/Extensions.kt,2/d/2d4c79c37c325843e9eeb643bcc28019369fd6b1
-ç
-]app/src/test/java/com/kamran/movieassignment/movie_data/repository/MovieRepositoryImplTest.kt,9/0/9037f500e8173fb9ebc2106ee243f0180513e00a
-á
-Wapp/src/main/java/com/kamran/movieassignment/movie_presentation/list/MovieListScreen.kt,f/2/f21fce69cf810a273a87868590054cd129ed71f0
 j
 :app/src/main/java/com/kamran/movieassignment/core/Color.kt,4/a/4a4c91b70569cf4a66583e3d48fb32dd8f837d2f
 é
 ^app/src/main/java/com/kamran/movieassignment/movie_presentation/detail/MovieDetailViewModel.kt,5/2/52282a0383c9a1663b62ecbb0cc595ea727fc7fd
 u
 Eapp/src/main/java/com/kamran/movieassignment/navigation/Navigation.kt,b/1/b109629fe06bbd048811eded62553c732120eff4
-ã
-[app/src/main/java/com/kamran/movieassignment/movie_presentation/detail/MovieDetailScreen.kt,d/7/d794a23687bb8b21446c21ace9e2cb1cd90be81d
 o
 ?app/src/main/java/com/kamran/movieassignment/core/Dimensions.kt,d/2/d2b969660e1ac6dab7cc0f7f79ae9ad4a41db623
 {

@@ -27,6 +27,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.testTag
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.hilt.navigation.compose.hiltViewModel
@@ -109,7 +110,10 @@ fun MovieDetailScreen(
 
                     Box(modifier = Modifier.height(dimensions.movieDetailImageHeight)) {
                         Image(
-                            painter = rememberAsyncImagePainter(movieDetail.posterPath),
+                            painter = rememberAsyncImagePainter(
+                                model = movieDetail.posterPath,
+                                error = painterResource(R.drawable.movieplaceholder),
+                            ),
                             contentDescription = movieDetail.title,
                             modifier = Modifier
                                 .fillMaxSize()
