@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieAssignment</string>
+    <string name="top_bar_title">Trending Movies</string>
+    <string name="movie_detail_title">Details</string>
+    <string name="snackbar_error_message">Oops, something went wrong!</string>
+    <string name="snackbar_action_message_retry">Retry</string>
+    <string name="load_more_error_message">Failed to fetch new movies, please try later.</string>
+    <string name="movie_list_empty_screen_message">Failed to load the movie list \u2639</string>
+    <string name="movie_detail_empty_screen_message">Failed to load the movie details
+        \u2639</string>
+    <string name="adult_movie_label">18+</string>
+    <string name="released_label">Release:</string>
+</resources>
